@@ -6,7 +6,8 @@ import requests
 
 '''
 whois lib works correct with .com addresses only !
-description: this script is allows to check websites. It pulls registration date, registrar und redirects and prints at the console. At the end it makes a screenshot.
+description: this script is allows to check websites. It pulls registration date, registrar und redirects and prints at the console. At the end it makes a screenshot
+Hint! Create a 'Screenshots' folder in your working directory.
 '''
 # screenshots
 def shots(lnk):
