@@ -1,7 +1,7 @@
 import requests
 
 # hier namen der Dateiname der Liste eingeben (started 3/2014)
-lnk_list = open('phish_guanjia/test_list.txt')
+lnk_list = open('path/file.txt')
 
 error_counter = 0
 link_counter = 0
