@@ -6,7 +6,7 @@ lnk_list = open('phish_guanjia/test_list.txt')
 error_counter = 0
 link_counter = 0
 
-results = open('phish_guanjia/results.txt')
+results = open('path/file.txt')
 
 for e in lnk_list:
 	link_counter += 1
